@@ -88,4 +88,5 @@ Here is a list of languages in a table:
 
 > This is a block quote.
 
->[!WARNING] This is a warning.
+> [!WARNING]
+> This is a warning.
