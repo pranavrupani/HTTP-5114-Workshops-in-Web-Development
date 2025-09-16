@@ -88,5 +88,5 @@ Here is a list of languages in a table:
 
 > This is a block quote.
 
-> [!WARNING]
+> [!WARNING] <!-- when faced with an error use two spaces so markdown will fix it-->
 > This is a warning.
